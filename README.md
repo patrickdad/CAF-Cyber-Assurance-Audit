@@ -5,6 +5,11 @@ This project demonstrates a simulated cyber assurance assessment using the UK Cy
 
 The audit evaluates governance and cyber risk management practices aligned to CAF Objective A – Managing Security Risk.
 
+## Framework Reference
+This audit simulation is based on the UK National Cyber Security Centre (NCSC)
+Cyber Assessment Framework (CAF), which is used by UK regulators and critical
+national infrastructure organisations to assess cyber resilience.
+
 ## Objectives of the Project
 - Demonstrate understanding of CAF assurance methodology
 - Assess governance and cyber risk management practices
