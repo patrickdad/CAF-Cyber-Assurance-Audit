@@ -93,11 +93,14 @@ Overall maturity rating:
 
 **Amber – Developing**
 
-| Impact | Likelihood | Risk Level |
-| ------ | ---------- | ---------- |
-| High   | High       | Critical   |
-| High   | Medium     | High       |
-| Medium | Medium     | Medium     |
+Risk Rating Scale
+
+| Colour       | Meaning              | Typical Action            |
+| ------------ | -------------------- | ------------------------- |
+| 🟢 **Green** | Low risk             | Monitor / accept          |
+| 🟠 **Amber** | Medium risk          | Manage and reduce         |
+| 🔴 **Red**   | High / Critical risk | Immediate action required |
+
 
 
 ## Project Outcome
