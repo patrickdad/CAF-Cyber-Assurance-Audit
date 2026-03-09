@@ -1,11 +1,13 @@
 # Cyber Assessment Framework (CAF) Mini Audit
 
-Cyber Assurance Portfolio Project – NCSC Cyber Assessment Framework (CAF)
+## Engagement Summary
 
-## Overview
-This project demonstrates a simulated cyber assurance assessment using the UK Cyber Assessment Framework (CAF) developed by the National Cyber Security Centre.
+This repository presents a simulated cyber assurance assessment conducted using the UK National Cyber Security Centre (NCSC) Cyber Assessment Framework (CAF).
 
-The audit evaluates governance and cyber risk management practices aligned to CAF Objective A – Managing Security Risk.
+The assessment evaluates organisational governance and cyber risk management practices aligned with CAF Objective A – Managing Security Risk.
+
+The purpose of the exercise is to demonstrate practical understanding of cyber assurance methodologies used in regulated environments such as government, healthcare, and critical national infrastructure.
+
 
 ## Cyber Assurance Audit Workflow
 
@@ -53,13 +55,16 @@ risk-register.md – risks identified during the assessment
 - Assess governance and cyber risk management practices
 - Produce an evidence-based cyber assurance report
 
-## Scope of Assessment
-The audit assessed the following CAF principles:
+## Assessment Scope
+
+The simulated assessment focuses on CAF Objective A – Managing Security Risk, including:
 
 - A1 Governance
 - A2 Risk Management
 - A3 Asset Management
-- A4 Supply Chain Risk Management
+- A4 Supply Chain
+
+The review examines governance structures, risk management processes, asset visibility, and third-party security controls.
 
 ## Methodology
 The assessment reviewed organisational documentation and governance practices against CAF Indicators of Good Practice.
@@ -73,28 +78,40 @@ Evidence reviewed included:
 - Governance reporting processes
 
 ## Key Findings
-The organisation demonstrated foundational cyber governance and risk management practices. However several improvement areas were identified:
 
-- Limited board-level cyber risk reporting
-- Incomplete asset inventory
-- Infrequent risk register updates
-- Limited supplier assurance monitoring
+The assessment identified several potential areas for improvement:
+
+• Lack of formal cyber security governance ownership  
+• Incomplete documentation of cyber risk management processes  
+• Limited visibility of organisational asset inventories  
+• Absence of structured supplier security assurance procedures  
+
+These findings are documented in the risk register and supported by evidence mapping against CAF principles.
 
 ## Maturity Assessment
 Overall maturity rating:
 
 **Amber – Developing**
 
+| Impact | Likelihood | Risk Level |
+| ------ | ---------- | ---------- |
+| High   | High       | Critical   |
+| High   | Medium     | High       |
+| Medium | Medium     | Medium     |
+
+
 ## Project Outcome
 This project demonstrates practical application of cyber governance and assurance concepts aligned with UK critical infrastructure security frameworks.
 
 ## Key Skills Demonstrated
 
-• Cyber Assurance  
+• Cyber Assurance & Governance Review 
 • Governance Risk & Compliance (GRC)  
 • NCSC Cyber Assessment Framework (CAF)  
 • Risk Identification & Documentation  
-• Security Governance Review  
+• Security Governance Review
+• Evidence-based Security Assessment  
+• Cyber Risk Reporting and Documentation
 
 ## Author
 Patrick Adefowora  
