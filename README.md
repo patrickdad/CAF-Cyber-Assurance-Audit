@@ -1,9 +1,25 @@
 # Cyber Assessment Framework (CAF) Mini Audit
 
+Cyber Assurance Portfolio Project – NCSC Cyber Assessment Framework (CAF)
+
 ## Overview
 This project demonstrates a simulated cyber assurance assessment using the UK Cyber Assessment Framework (CAF) developed by the National Cyber Security Centre.
 
 The audit evaluates governance and cyber risk management practices aligned to CAF Objective A – Managing Security Risk.
+
+flowchart LR
+
+A[Define Audit Scope] --> B[Review CAF Framework]
+
+B --> C[Collect Evidence]
+
+C --> D[Map Evidence to CAF Principles]
+
+D --> E[Identify Risks]
+
+E --> F[Document Risk Register]
+
+F --> G[Produce Audit Report]
 
 ## Framework Reference
 This audit simulation is based on the UK National Cyber Security Centre (NCSC)
