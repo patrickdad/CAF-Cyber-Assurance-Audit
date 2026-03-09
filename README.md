@@ -91,7 +91,14 @@ These findings are documented in the risk register and supported by evidence map
 ## Maturity Assessment
 Overall maturity rating:
 
-**Amber – Developing**
+**🟠 Amber – Developing**
+
+| Risk                                     | CAF Principle       | Rating   |
+| ---------------------------------------- | ------------------- | -------- |
+| No defined security governance structure | A1 Governance       | 🔴 Red   |
+| Incomplete asset inventory               | A3 Asset Management | 🟠 Amber |
+| Informal supplier security checks        | A4 Supply Chain     | 🟠 Amber |
+
 
 Risk Rating Scale
 
