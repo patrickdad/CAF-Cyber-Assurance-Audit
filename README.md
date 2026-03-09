@@ -18,10 +18,15 @@ report/CAF-Cyber-Assurance-Audit.pdf
 
 ## Repository Structure
 
-Methodology/ – describes the cyber assurance audit approach  
-Evidence/ – mapping of organisational controls to CAF principles  
-Reference/ – supporting documentation for the CAF framework  
+Methodology/ – describes the cyber assurance audit approach
+
+Evidence/ – mapping of organisational controls to CAF principles
+
+Reference/ – supporting documentation for the CAF framework
+
 Report/ – final simulated cyber assurance audit report
+
+risk-register.md – risks identified during the assessment
 
 ## Objectives of the Project
 - Demonstrate understanding of CAF assurance methodology
