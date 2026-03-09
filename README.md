@@ -7,6 +7,9 @@ This project demonstrates a simulated cyber assurance assessment using the UK Cy
 
 The audit evaluates governance and cyber risk management practices aligned to CAF Objective A – Managing Security Risk.
 
+## Cyber Assurance Audit Workflow
+
+```mermaid
 flowchart LR
 
 A[Define Audit Scope] --> B[Review CAF Framework]
@@ -20,6 +23,7 @@ D --> E[Identify Risks]
 E --> F[Document Risk Register]
 
 F --> G[Produce Audit Report]
+```
 
 ## Framework Reference
 This audit simulation is based on the UK National Cyber Security Centre (NCSC)
@@ -83,6 +87,14 @@ Overall maturity rating:
 
 ## Project Outcome
 This project demonstrates practical application of cyber governance and assurance concepts aligned with UK critical infrastructure security frameworks.
+
+## Key Skills Demonstrated
+
+• Cyber Assurance  
+• Governance Risk & Compliance (GRC)  
+• NCSC Cyber Assessment Framework (CAF)  
+• Risk Identification & Documentation  
+• Security Governance Review  
 
 ## Author
 Patrick Adefowora  
