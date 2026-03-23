@@ -1,12 +1,37 @@
-# Cyber Assessment Framework (CAF) Mini Audit
+# 🛡️ NCSC CAF Cyber Assurance Audit  
+> Simulated cyber assurance engagement aligned with UK regulatory expectations for cyber resilience
 
-## Engagement Summary
 
-This repository presents a simulated cyber assurance assessment conducted using the UK National Cyber Security Centre (NCSC) Cyber Assessment Framework (CAF).
+## 📌 Engagement Overview
 
-The assessment evaluates organisational governance and cyber risk management practices aligned with **CAF Objective A – Managing Security Risk**.
+This repository presents a simulated **cyber assurance engagement** conducted using the UK National Cyber Security Centre (NCSC) Cyber Assessment Framework (CAF).
 
-The purpose of the exercise is to demonstrate practical understanding of cyber assurance methodologies used in regulated environments such as government, healthcare, and critical national infrastructure.
+The assessment evaluates organisational governance and cyber risk management practices aligned with:
+
+**CAF Objective A – Managing Security Risk**
+
+This project replicates how cyber assurance reviews are conducted in real-world environments such as:
+
+- UK public sector organisations  
+- Healthcare (NHS)  
+- Critical national infrastructure (CNI)  
+
+It demonstrates how organisations assess control effectiveness, identify risk, and produce evidence-based assurance outcomes.
+
+---
+
+## 🎯 Why This Project Matters
+
+Many organisations struggle to translate cyber security frameworks into practical assurance.
+
+This project demonstrates:
+
+- How CAF principles are applied in a structured audit  
+- How governance and risk controls are evaluated  
+- How evidence is used to support assurance conclusions  
+- How risks are identified, prioritised and communicated  
+
+It reflects the shift from **compliance-based security → risk-based assurance**.
 
 ---
 
@@ -58,17 +83,24 @@ The review examines governance structures, risk management processes, asset visi
 
 ---
 
-## Methodology
+## 🧠 Methodology
 
-The assessment reviewed organisational documentation and governance practices against **CAF Indicators of Good Practice**.
+The assessment follows a structured cyber assurance approach aligned with industry practices:
 
-Evidence reviewed included:
+1. **Framework Mapping**  
+   Mapping CAF principles to organisational controls  
 
-• Information security policies  
-• Risk registers  
-• Asset inventories  
-• Supplier security requirements  
-• Governance reporting processes  
+2. **Evidence Review**  
+   Analysing policies, risk registers, asset inventories and governance documentation  
+
+3. **Control Effectiveness Assessment**  
+   Evaluating whether controls are implemented, effective, and measurable  
+
+4. **Risk Identification**  
+   Identifying gaps and weaknesses in governance and risk management  
+
+5. **Reporting**  
+   Producing an evidence-based audit report with findings and recommendations  
 
 ---
 
@@ -82,6 +114,14 @@ The assessment identified several potential areas for improvement:
 • Absence of structured supplier security assurance procedures  
 
 These findings are documented in the **risk register** and supported by evidence mapping against CAF principles.
+
+---
+
+## 📊 Assurance Outcome
+
+The assessment indicates that while foundational governance and risk management practices exist, there are **gaps in formalisation, documentation, and control consistency**.
+
+This reflects an organisation in a **developing stage of cyber maturity**, requiring structured improvement to meet regulatory expectations.
 
 ---
 
@@ -109,9 +149,17 @@ Overall maturity rating:
 
 ---
 
-## Project Outcome
+## 🏁 Project Outcome
 
-This project demonstrates practical application of cyber governance and assurance concepts aligned with **UK critical infrastructure security frameworks**.
+This project demonstrates the ability to conduct a structured cyber assurance engagement aligned with UK regulatory frameworks.
+
+It highlights:
+
+- Practical application of CAF in a simulated audit  
+- Risk-based evaluation of governance and controls  
+- Clear communication of findings and remediation priorities  
+
+The approach reflects methodologies used in **real-world cyber assurance, audit, and regulatory environments**.
 
 ---
 
@@ -127,7 +175,9 @@ This project demonstrates practical application of cyber governance and assuranc
 
 ---
 
-## Author
+## 👤 Author
 
-**Patrick Adefowora**  
-Cyber Risk & Assurance Analyst
+Patrick Adefowora  
+Cyber Risk & Assurance Analyst  
+
+🔗 LinkedIn: https://linkedin.com/in/patrickadefowora
