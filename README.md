@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="47%" />
+
+---
+
 # 🛡️ NCSC CAF Cyber Assurance Audit  
 > Simulated cyber assurance engagement aligned with UK regulatory expectations for cyber resilience
 
