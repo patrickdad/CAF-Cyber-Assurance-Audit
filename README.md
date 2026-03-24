@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="47%" />
+<img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/caf-audit-card.jpg" width="47%" />
 
 ---
 
