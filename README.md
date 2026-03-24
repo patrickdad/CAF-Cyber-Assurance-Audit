@@ -1,4 +1,4 @@
-<img src="[/patrickdad](https://github.com/patrickdad/CAF-Cyber-Assurance-Audit/blob/main/CAF-Cyber-Assurance-Audit/assets/caf-audit-card.jpg" width="47%" />
+<img src="https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/assets/caf-audit-card.jpg" width="47%" />
 
 ---
 
